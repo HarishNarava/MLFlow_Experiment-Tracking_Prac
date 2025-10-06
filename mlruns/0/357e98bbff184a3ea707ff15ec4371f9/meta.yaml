@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/357e98bbff184a3ea707ff15ec4371f9/artifacts
+end_time: 1759656399377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 357e98bbff184a3ea707ff15ec4371f9
+run_name: nosy-kit-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759656398868
+status: 3
+tags: []
+user_id: Harish

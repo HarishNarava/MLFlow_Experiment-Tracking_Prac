@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/878292590732969815/4cffb0f723aa4d88bcd4152857482773/artifacts
+end_time: 1759764794803
+entry_point_name: ''
+experiment_id: '878292590732969815'
+lifecycle_stage: active
+run_id: 4cffb0f723aa4d88bcd4152857482773
+run_name: blushing-snipe-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759764782671
+status: 3
+tags: []
+user_id: Harish

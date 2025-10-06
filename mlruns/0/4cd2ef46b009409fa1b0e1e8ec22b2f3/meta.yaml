@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4cd2ef46b009409fa1b0e1e8ec22b2f3/artifacts
+end_time: 1759655595564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cd2ef46b009409fa1b0e1e8ec22b2f3
+run_name: learned-gnat-994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759655595514
+status: 3
+tags: []
+user_id: Harish

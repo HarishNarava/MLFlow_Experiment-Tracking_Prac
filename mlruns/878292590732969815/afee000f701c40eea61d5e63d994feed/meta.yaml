@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/878292590732969815/afee000f701c40eea61d5e63d994feed/artifacts
+end_time: 1759768915139
+entry_point_name: ''
+experiment_id: '878292590732969815'
+lifecycle_stage: active
+run_id: afee000f701c40eea61d5e63d994feed
+run_name: skillful-roo-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759768906677
+status: 3
+tags: []
+user_id: Harish

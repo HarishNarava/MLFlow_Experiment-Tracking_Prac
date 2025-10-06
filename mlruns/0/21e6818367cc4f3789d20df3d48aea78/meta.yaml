@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/21e6818367cc4f3789d20df3d48aea78/artifacts
+end_time: 1759656192447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21e6818367cc4f3789d20df3d48aea78
+run_name: charming-tern-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759656191963
+status: 3
+tags: []
+user_id: Harish

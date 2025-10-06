@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9db0516b734f4db5a8dc725672b25b6a/artifacts
+end_time: 1759655419122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9db0516b734f4db5a8dc725672b25b6a
+run_name: persistent-cod-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759655419055
+status: 3
+tags: []
+user_id: Harish

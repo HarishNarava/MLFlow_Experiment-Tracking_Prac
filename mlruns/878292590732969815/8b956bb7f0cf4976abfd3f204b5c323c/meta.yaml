@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/878292590732969815/8b956bb7f0cf4976abfd3f204b5c323c/artifacts
+end_time: 1759656501239
+entry_point_name: ''
+experiment_id: '878292590732969815'
+lifecycle_stage: active
+run_id: 8b956bb7f0cf4976abfd3f204b5c323c
+run_name: efficient-swan-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759656500798
+status: 3
+tags: []
+user_id: Harish

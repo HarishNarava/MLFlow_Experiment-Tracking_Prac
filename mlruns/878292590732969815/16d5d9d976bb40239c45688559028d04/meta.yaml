@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/878292590732969815/16d5d9d976bb40239c45688559028d04/artifacts
+end_time: 1759764695373
+entry_point_name: ''
+experiment_id: '878292590732969815'
+lifecycle_stage: active
+run_id: 16d5d9d976bb40239c45688559028d04
+run_name: adorable-toad-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759764694537
+status: 3
+tags: []
+user_id: Harish
