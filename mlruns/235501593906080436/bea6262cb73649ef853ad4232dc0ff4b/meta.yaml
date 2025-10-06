@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/MLFlow_Experiment-Tracking_Prac/mlruns/235501593906080436/bea6262cb73649ef853ad4232dc0ff4b/artifacts
+end_time: 1759771353791
+entry_point_name: ''
+experiment_id: '235501593906080436'
+lifecycle_stage: active
+run_id: bea6262cb73649ef853ad4232dc0ff4b
+run_name: beautiful-midge-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759771344883
+status: 3
+tags: []
+user_id: Harish

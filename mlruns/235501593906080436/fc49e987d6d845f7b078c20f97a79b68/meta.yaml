@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/MLFlow_Experiment-Tracking_Prac/mlruns/235501593906080436/fc49e987d6d845f7b078c20f97a79b68/artifacts
+end_time: 1759771349343
+entry_point_name: ''
+experiment_id: '235501593906080436'
+lifecycle_stage: active
+run_id: fc49e987d6d845f7b078c20f97a79b68
+run_name: unruly-cub-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759771349294
+status: 3
+tags: []
+user_id: Harish

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/MLFlow_Experiment-Tracking_Prac/mlruns/235501593906080436/29801251ffbe435699bd3049b61fe963/artifacts
+end_time: 1759771349721
+entry_point_name: ''
+experiment_id: '235501593906080436'
+lifecycle_stage: active
+run_id: 29801251ffbe435699bd3049b61fe963
+run_name: loud-croc-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759771349684
+status: 3
+tags: []
+user_id: Harish

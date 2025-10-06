@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/MLFlow_Experiment-Tracking_Prac/mlruns/235501593906080436/6c5fa4aef79749afae1c292badf64d8e/artifacts
+end_time: 1759771349677
+entry_point_name: ''
+experiment_id: '235501593906080436'
+lifecycle_stage: active
+run_id: 6c5fa4aef79749afae1c292badf64d8e
+run_name: casual-cod-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759771349638
+status: 3
+tags: []
+user_id: Harish

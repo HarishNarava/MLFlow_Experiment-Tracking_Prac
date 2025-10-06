@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/MLFlow_Experiment-Tracking_Prac/mlruns/235501593906080436/b43e04abe3d4467eb8781a8826904099/artifacts
+end_time: 1759771349438
+entry_point_name: ''
+experiment_id: '235501593906080436'
+lifecycle_stage: active
+run_id: b43e04abe3d4467eb8781a8826904099
+run_name: agreeable-hawk-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759771349398
+status: 3
+tags: []
+user_id: Harish

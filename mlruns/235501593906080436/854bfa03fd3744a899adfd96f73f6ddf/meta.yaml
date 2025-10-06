@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/MLFlow_Experiment-Tracking_Prac/mlruns/235501593906080436/854bfa03fd3744a899adfd96f73f6ddf/artifacts
+end_time: 1759771349488
+entry_point_name: ''
+experiment_id: '235501593906080436'
+lifecycle_stage: active
+run_id: 854bfa03fd3744a899adfd96f73f6ddf
+run_name: luxuriant-shad-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759771349444
+status: 3
+tags: []
+user_id: Harish

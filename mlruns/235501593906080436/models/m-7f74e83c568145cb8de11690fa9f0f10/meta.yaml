@@ -1,0 +1,10 @@
+artifact_location: file:///D:/MLOps/MLFlow_Experiment-Tracking_Prac/mlruns/235501593906080436/models/m-7f74e83c568145cb8de11690fa9f0f10/artifacts
+creation_timestamp: 1759771349948
+experiment_id: '235501593906080436'
+last_updated_timestamp: 1759771353779
+model_id: m-7f74e83c568145cb8de11690fa9f0f10
+model_type: null
+name: random_forest
+source_run_id: bea6262cb73649ef853ad4232dc0ff4b
+status: 2
+status_message: null

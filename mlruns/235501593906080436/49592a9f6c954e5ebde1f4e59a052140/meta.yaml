@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/MLFlow_Experiment-Tracking_Prac/mlruns/235501593906080436/49592a9f6c954e5ebde1f4e59a052140/artifacts
+end_time: 1759771349866
+entry_point_name: ''
+experiment_id: '235501593906080436'
+lifecycle_stage: active
+run_id: 49592a9f6c954e5ebde1f4e59a052140
+run_name: lyrical-worm-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759771349827
+status: 3
+tags: []
+user_id: Harish

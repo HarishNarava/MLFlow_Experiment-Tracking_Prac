@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/MLFlow_Experiment-Tracking_Prac/mlruns/235501593906080436/5a00b17645c849398c936235a24dd572/artifacts
+end_time: 1759771349536
+entry_point_name: ''
+experiment_id: '235501593906080436'
+lifecycle_stage: active
+run_id: 5a00b17645c849398c936235a24dd572
+run_name: mercurial-jay-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759771349495
+status: 3
+tags: []
+user_id: Harish
